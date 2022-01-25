@@ -1,11 +1,11 @@
 {
-    "name": "simple_checklist",
-    "short_name": "simple_checklist",
+    "name": "Simple Checklist",
+    "short_name": "Simple Checklist",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Simple checklist App.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
