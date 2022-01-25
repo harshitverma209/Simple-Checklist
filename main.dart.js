@@ -36142,7 +36142,7 @@ S3(a){var s,r=this,q=null
 r.a.toString
 s=r.gDU()
 r.a.toString
-return new A.w8(q,q,q,new A.a3n(),q,q,q,q,B.z6,B.D_,q,q,B.AD,r.gWO(),"",q,B.Iq,B.dW,q,s,q,q,B.iM,!1,!1,!1,!1,r.gWy(),!0,q,q,q,!1,new A.jy(r,t.l9))},
+return new A.w8(q,q,q,new A.a3n(),q,q,q,q,B.z6,B.D_,q,q,B.AD,r.gWO(),"Simple Checklist",q,B.Iq,B.dW,q,s,q,q,B.iM,!1,!1,!1,!1,r.gWy(),!0,q,q,q,!1,new A.jy(r,t.l9))},
 L(a,b){var s=null,r=A.BM(!1,!1,this.S3(b),s,s,s,!0,s,s,new A.a3o(),s,s)
 this.a.toString
 return new A.uY(B.vr,new A.le(A.a(this.d,"_heroController"),r,s),s)}}
