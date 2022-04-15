@@ -5,21 +5,21 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "9bfb460c2a4c6e96b332f5896ff11eca",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "aeadc61775a7a96dbe7ff2e874b90775",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "f26971cd6409110023e85afe21fba762",
 "icons/Icon-512.png": "d794cde057f554341c3e7d4c2d01ac29",
 "icons/Icon-maskable-192.png": "f26971cd6409110023e85afe21fba762",
 "icons/Icon-maskable-512.png": "d794cde057f554341c3e7d4c2d01ac29",
-"index.html": "0f053c5249e2105b1a3d33438ad0156a",
-"/": "0f053c5249e2105b1a3d33438ad0156a",
-"main.dart.js": "e637b719f159d3bd843bd6ceac81f090",
+"index.html": "381e0a9f6f9fb6f1d065d36011a0ef2e",
+"/": "381e0a9f6f9fb6f1d065d36011a0ef2e",
+"main.dart.js": "3789bffbf20f9980ee17c059c066f08d",
 "manifest.json": "11735391e28df44fa702a7bd231c3db7",
 "version.json": "96346ab96471f971bbe8fa615d97fb3a"
 };
@@ -27,7 +27,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  //"/",
+//  "/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
